@@ -449,3 +449,7 @@
 |[JoinMC智能客服](https://panda.joinmc.cn/)|💰|JoinMC（Join Marketing Copilot）智能客服，专为跨境营销定制打造，采用1+2+4+10的模式，即1个大语言模型、2大核心逻辑、4种对接渠道、10大优质功能|
 
 # 教程
+
+| 产品名称 | 相关信息 | 备注 |
+| --- | :---: | --- |
+| [AI Workflow Tutorials](https://aiworkflowtutorials.com/) | 🆓 | 面向中文开发者的 AI 编程教程站，覆盖 OpenAI Codex、Claude Code、Cursor、GitHub Copilot、Gemini CLI 等主流 AI 编程工具的入门、配置和实战教程 |
