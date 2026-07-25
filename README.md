@@ -38,6 +38,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 📰 **[机灵助手](https://www.jiling.cc/chat)** | 支持GPT4o、Claude3、MJ绘画、Suno文生音乐等。        |
 | 🎗 **[神马聚合中转API](https://api.whatai.cc)** | **2元1美刀，支持OpenAI官方所有模型，Luma、MJ、Claude、Suno等API调用**                                                 |
+| [Dipody](https://www.dipody.cn/)                              |            🧪🆓&💰            | AI大模型API网关，一站式接入ChatGPT、Claude、Gemini、DeepSeek等50+主流大模型，国内直连即开即用 |
 | 📚️ **[好狗AI导航](https://www.howgo.cc/ai)** | AI综合导航AI工具大全 |
 
 # 图标说明
