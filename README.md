@@ -202,6 +202,7 @@
 ## 图像生成
 |产品名称|相关信息|底层模型|备注|
 |-|:-:|-|-|
+|[Emu](https://image.tinchak0207.xyz)|🆓||在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key，生成完直接下载|
 |[Midjourney中文版](https://www.jiling.cc/mj)|🆓&💰||Midjourney中文版|
 |[Midjourney](https://www.midjourney.com)|✈️🆓&💰||Midjourney是一个由同名研究实验室开发的人工智能程式，可根据文本生成图像，也就是大家所说的AI绘画工具，使用者可透过Discord的机器人指令进行操作|
 |[Chilloutai](https://chilloutai.xyz/)|✈️🆓&💰🔓||基于 Midjourney API 的产品，无需注册 discord|
