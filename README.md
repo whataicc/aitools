@@ -177,6 +177,7 @@
 |[Codeium](https://codeium.com/)|✈️🆓&💰📥|一款开源的 AI 编程助手插件，用于替代 Github Copilot|
 |[Tabby](https://tabbyml.github.io/tabby/)|✈️🆓🔓|一款开源的 AI 编程助手，用于替代 Github Copilot|
 |[Codium ai](https://www.codium.ai/)|💰|一款面向测试使用的人工智能插件，基于 TestGpt，chatGpt|
+|[agent-qa](https://vostride.com)|🆓|用自然语言测试 Web、Android 和 iOS 应用，具备持久化记忆、经验证的自我改进与 CLI/MCP 工作流；本地软件免费，模型服务费用另计|
 |[Cursor](https://www.cursor.so/)|🆓|基于 chatgpt 的代码编辑器，具有极强的代码提示能力，通过提供描述即可生成一系列代码|
 |[1024Code](https://1024code.com/)|🧪🆓|带有 AI 辅助的在线 IDE|
 |[Codegeex](https://codegeex.cn/zh-CN)|🆓|一款 vscode 上免费的 ai 编程助手插件|
