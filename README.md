@@ -283,6 +283,7 @@
 ## 阅读辅助
 |产品名称|相关信息|备注|
 |:--|:-:|---|
+|[DisconfirmAI / 证伪AI](https://disconfirmai.com/zh)|🆓&💰|面向投资研究的证伪优先阅读与研究平台，先找可能推翻观点的反面证据，再建立确信。提供公开信源阅读、财报与数据研究、条件雷达与个人投资框架。|
 |[Scispace](https://typeset.io/)|🆓|论文阅读工具，提供了强大的功能，如论文总结，公式解析等|
 |[Chatdoc](https://chatdoc.com/)|✈️🆓|ChatDOC 是一个基于 ChatGPT 的文件阅读助手，可以 从 PDF 中快速提取、定位和汇总信息。此外它还支持 word 等格式|
 |[Chat PDF](https://www.chatpdf.com/)|✈️🆓&💰|基于 OpenAI 的 Chat API 开发的 PDF 识别文章内容的阅读助手|
