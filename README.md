@@ -191,6 +191,8 @@
 |[豆包 MarsCode](https://www.marscode.cn/)|🆓|豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力|
 |[C 知道](https://so.csdn.net/chat?utm_source=vip_chatgpt_common_pc_toolbar&spm=1010.2135.3001.10025)|🆓|CSDN 旗下面向开发者的 AI 搜索引擎|
 |[CodeGPT](https://marketplace.visualstudio.com/items?itemName=CSDN.csdn-codegpt&spm=1018.2226.3001.9836&extra%5Butm_source%5D=vip_chatgpt_common_pc_toolbar&extra%5Butm_medium%5D=)|🆓📥|CSDN 旗下面向开发者的代码编写辅助插件|
+|[FlashData Google 与 YouTube 数据工具](https://github.com/rocosen/flashdata-mcp)|💰🔓|面向AI Agent的MIT开源MCP/CLI与15项任务Skills，涵盖Google六类搜索、YouTube搜索/详情/已有字幕/频道/联想词/许可标签及媒体交付；API Key与付费Credits必需，非免费数据API|
+
 # 模型开发
 
 | 产品名称                         | 相关信息&emsp; | 备注                           |
